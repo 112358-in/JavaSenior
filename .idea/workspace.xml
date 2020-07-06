@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27603167-5929-490a-919a-227051098ea8" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cg37RmYsuCOUQkGUUBYnOuvtcK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551953006933" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog/ForestBlog" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.java" />
+      <recent name="com.atguigu.java1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea1\JavaSenior\day12\src\com\atguigu\java2" />
+      <recent name="D:\workspace_idea1\JavaSenior\day10" />
+      <recent name="D:\workspace_idea1\JavaSenior\day10\libs" />
+      <recent name="D:\workspace_idea1\JavaSenior\day10\src\com\atguigu\java" />
+      <recent name="D:\workspace_idea1\JavaSenior\day09\src\com\atguigu\exer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GenericTest.test4">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeasonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.SeasonTest" />
+      <module name="day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeasonTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.SeasonTest1" />
+      <module name="day05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day06" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.CollectionTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java2" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.GenericTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.java2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.java2" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.GenericTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SeasonTest" />
+      <item itemvalue="Application.SeasonTest1" />
+      <item itemvalue="JUnit.CollectionTest.test1" />
+      <item itemvalue="JUnit.GenericTest.test3" />
+      <item itemvalue="JUnit.GenericTest.test4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GenericTest.test4" />
+        <item itemvalue="JUnit.GenericTest.test3" />
+        <item itemvalue="JUnit.CollectionTest.test1" />
+        <item itemvalue="Application.SeasonTest1" />
+        <item itemvalue="Application.SeasonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27603167-5929-490a-919a-227051098ea8" name="Default" comment="" />
+      <created>1550022137055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550022137055</updated>
+      <workItem from="1550022139907" duration="3028000" />
+      <workItem from="1550025187231" duration="1324000" />
+      <workItem from="1550026774872" duration="13063000" />
+      <workItem from="1550052034776" duration="1113000" />
+      <workItem from="1550152562856" duration="974000" />
+      <workItem from="1550190749329" duration="13455000" />
+      <workItem from="1550212332549" duration="14180000" />
+      <workItem from="1550241615684" duration="2611000" />
+      <workItem from="1550276528008" duration="21608000" />
+      <workItem from="1550392425013" duration="24000" />
+      <workItem from="1550413087858" duration="2684000" />
+      <workItem from="1550449926644" duration="24728000" />
+      <workItem from="1550500665999" duration="2141000" />
+      <workItem from="1550506838022" duration="689000" />
+      <workItem from="1550536646491" duration="23600000" />
+      <workItem from="1550562064922" duration="94000" />
+      <workItem from="1550562183394" duration="1454000" />
+      <workItem from="1550546658403" duration="330000" />
+      <workItem from="1550546402655" duration="460000" />
+      <workItem from="1550585752436" duration="2921000" />
+      <workItem from="1550622963506" duration="12921000" />
+      <workItem from="1550643068019" duration="11927000" />
+      <workItem from="1550675540282" duration="1265000" />
+      <workItem from="1550741028924" duration="4924000" />
+      <workItem from="1550768332215" duration="12000" />
+      <workItem from="1550769263796" duration="1337000" />
+      <workItem from="1550794894658" duration="22482000" />
+      <workItem from="1550847740138" duration="1927000" />
+      <workItem from="1550881837828" duration="11767000" />
+      <workItem from="1550898707874" duration="10936000" />
+      <workItem from="1550915022116" duration="1198000" />
+      <workItem from="1550935696151" duration="14000" />
+      <workItem from="1551029649563" duration="1171000" />
+      <workItem from="1551053870981" duration="26220000" />
+      <workItem from="1551101752348" duration="2485000" />
+      <workItem from="1551118421461" duration="7000" />
+      <workItem from="1551140954405" duration="11235000" />
+      <workItem from="1551161334872" duration="11256000" />
+      <workItem from="1551187974891" duration="4001000" />
+      <workItem from="1551200829730" duration="134000" />
+      <workItem from="1551227685398" duration="23333000" />
+      <workItem from="1551345830960" duration="2576000" />
+      <workItem from="1551400263276" duration="8850000" />
+      <workItem from="1551418680048" duration="17128000" />
+      <workItem from="1551591005605" duration="789000" />
+      <workItem from="1551688949961" duration="9000" />
+      <workItem from="1551879798934" duration="3918000" />
+      <workItem from="1551885362972" duration="96000" />
+      <workItem from="1551899911189" duration="34000" />
+      <workItem from="1551922082184" duration="305000" />
+      <workItem from="1551923438451" duration="7785000" />
+      <workItem from="1551938171643" duration="14303000" />
+      <workItem from="1590936245454" duration="638000" />
+      <workItem from="1591261219363" duration="2703000" />
+      <workItem from="1591266994490" duration="1128000" />
+      <workItem from="1591268537507" duration="734000" />
+      <workItem from="1591269505396" duration="508000" />
+      <workItem from="1591270069002" duration="4611000" />
+      <workItem from="1591276955136" duration="1366000" />
+      <workItem from="1591278524577" duration="3266000" />
+      <workItem from="1591343117325" duration="1644000" />
+      <workItem from="1591431742550" duration="4523000" />
+      <workItem from="1591516498617" duration="5546000" />
+      <workItem from="1591765719801" duration="6190000" />
+      <workItem from="1591778808170" duration="1389000" />
+      <workItem from="1591852710109" duration="13000" />
+      <workItem from="1591879774998" duration="39000" />
+      <workItem from="1592377553502" duration="6578000" />
+      <workItem from="1592569333335" duration="2295000" />
+      <workItem from="1592987588711" duration="8052000" />
+      <workItem from="1593049712569" duration="11240000" />
+      <workItem from="1593239599557" duration="9317000" />
+      <workItem from="1593401423957" duration="9324000" />
+      <workItem from="1593510461815" duration="2389000" />
+      <workItem from="1593568823834" duration="4477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Inspections" timestamp="1593262328032">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="26" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1593262328032" />
+    <state x="275" y="27" key="#Project_Structure" timestamp="1591261564358">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1591261564358" />
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1593436157118">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1593436157118" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1593511289543">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1593511289543" />
+    <state width="1321" height="220" key="GridCell.Tab.0.bottom" timestamp="1593441095013">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="220" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593441095013" />
+    <state width="1321" height="220" key="GridCell.Tab.0.center" timestamp="1593441095013">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="220" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1593441095013" />
+    <state width="1321" height="220" key="GridCell.Tab.0.left" timestamp="1593441095013">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="220" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1593441095013" />
+    <state width="1321" height="220" key="GridCell.Tab.0.right" timestamp="1593441095013">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="220" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1593441095013" />
+    <state width="1321" height="207" key="GridCell.Tab.1.bottom" timestamp="1593271591768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="207" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593271591768" />
+    <state width="1321" height="207" key="GridCell.Tab.1.center" timestamp="1593271591768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="207" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1593271591768" />
+    <state width="1321" height="207" key="GridCell.Tab.1.left" timestamp="1593271591768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="207" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1593271591768" />
+    <state width="1321" height="207" key="GridCell.Tab.1.right" timestamp="1593271591768">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1321" height="207" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1593271591768" />
+    <state x="281" y="19" key="SettingsEditor" timestamp="1593435625226">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="281" y="19" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1593435625226" />
+    <state x="402" y="110" width="555" height="540" key="StructurePopup" timestamp="1593569443623">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="402" y="110" width="555" height="540" key="StructurePopup/0.0.1366.738@0.0.1366.738" timestamp="1593569443623" />
+    <state x="413" y="123" key="extract.method.dialog" timestamp="1593402155168">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="123" key="extract.method.dialog/0.0.1366.738@0.0.1366.738" timestamp="1593402155167" />
+    <state x="291" y="71" width="784" height="596" key="find.popup" timestamp="1592994169158">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="291" y="71" width="784" height="596" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1592994169158" />
+    <state x="131" y="26" key="new project wizard" timestamp="1591436627451">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="131" y="26" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1591436627451" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1593433702052">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1593433702052" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1593569404501">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1593569404501" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day04/src/com/atguigu/java/IDEADebug.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day04/src/com/atguigu/java/IDEADebug.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/day04/src/com/atguigu/java/IDEADebug.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
