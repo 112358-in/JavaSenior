@@ -40,9 +40,11 @@ public class FileTest {
     public void test1(){
         //构造器1
         File file1 = new File("hello.txt");//相对于当前module
+        File file11 = new File("hello11.txt");//相对于当前module
         File file2 =  new File("D:\\workspace_idea1\\JavaSenior\\day08\\he.txt");
 
         System.out.println(file1);
+        System.out.println("file11:"+file11);
         System.out.println(file2);
 
         //构造器2：

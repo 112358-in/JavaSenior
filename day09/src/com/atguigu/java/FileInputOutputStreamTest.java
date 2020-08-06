@@ -149,8 +149,10 @@ public class FileInputOutputStreamTest {
 
         long start = System.currentTimeMillis();
 
-        String srcPath = "C:\\Users\\Administrator\\Desktop\\01-视频.avi";
-        String destPath = "C:\\Users\\Administrator\\Desktop\\02-视频.avi";
+        String srcPath = "C:/Users/11475/Desktop/1.mp4";
+        String destPath = "C:/Users/11475/Desktop/3.mp4";
+//        String srcPath = "C:\\Users\\Administrator\\Desktop\\01-视频.avi";
+//        String destPath = "C:\\Users\\Administrator\\Desktop\\02-视频.avi";
 
 
 //        String srcPath = "hello.txt";

@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27603167-5929-490a-919a-227051098ea8" name="Default" comment="" />
+    <list default="true" id="27603167-5929-490a-919a-227051098ea8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09/demo.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09/demo09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09/hello.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09/helloA.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09/src/com/cao/java/FileInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09/src/com/cao/java/buffStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09/src/com/cao/java/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo09/src/com/cao/java1/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/src/com/atguigu/java/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07/src/com/atguigu/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day08/src/com/atguigu/java3/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day08/src/com/atguigu/java3/FileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09/src/com/atguigu/java/FileInputOutputStreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day09/src/com/atguigu/java/FileInputOutputStreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day08/com/atguigu/exer1/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day08/com/atguigu/exer1/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day08/com/atguigu/java3/FileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day08/com/atguigu/java3/FileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day09/com/atguigu/java/FileInputOutputStreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day09/com/atguigu/java/FileInputOutputStreamTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +33,20 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -23,6 +56,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="ProjectId" id="1cg37RmYsuCOUQkGUUBYnOuvtcK" />
   <component name="ProjectViewState">
@@ -36,56 +77,46 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551953006933" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog/ForestBlog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo09" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.atguigu.java" />
-      <recent name="com.atguigu.java1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\JavaSenior\demo09" />
       <recent name="D:\workspace_idea1\JavaSenior\day12\src\com\atguigu\java2" />
       <recent name="D:\workspace_idea1\JavaSenior\day10" />
       <recent name="D:\workspace_idea1\JavaSenior\day10\libs" />
       <recent name="D:\workspace_idea1\JavaSenior\day10\src\com\atguigu\java" />
-      <recent name="D:\workspace_idea1\JavaSenior\day09\src\com\atguigu\exer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.java" />
+      <recent name="com.atguigu.java1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\JavaSenior\demo09" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GenericTest.test4">
+  <component name="RunManager" selected="Application.buffStream">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeasonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.SeasonTest" />
-      <module name="day05" />
+    <configuration name="FileInputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cao.java.FileInputStreamDemo" />
+      <module name="demo09" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SeasonTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.SeasonTest1" />
-      <module name="day05" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.java.*" />
+          <option name="PATTERN" value="com.cao.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,8 +130,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day06" />
+    <configuration name="buffStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cao.java.buffStream" />
+      <module name="demo09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cao.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cao.java.demo1" />
+      <module name="demo09" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cao.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileInputOutputStreamTest.testCopyFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day09" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.atguigu.java.*" />
@@ -108,42 +167,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.atguigu.java" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.CollectionTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.java.FileInputOutputStreamTest" />
+      <option name="METHOD_NAME" value="testCopyFile" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day08" />
+    <configuration name="FileInputStreamDemo.testCopyFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.java2.*" />
+          <option name="PATTERN" value="com.cao.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.java2" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.GenericTest" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GenericTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.java2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.java2" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.java2.GenericTest" />
-      <option name="METHOD_NAME" value="test4" />
+      <option name="PACKAGE_NAME" value="com.cao.java" />
+      <option name="MAIN_CLASS_NAME" value="com.cao.java.FileInputStreamDemo" />
+      <option name="METHOD_NAME" value="testCopyFile" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -176,19 +218,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SeasonTest" />
-      <item itemvalue="Application.SeasonTest1" />
-      <item itemvalue="JUnit.CollectionTest.test1" />
-      <item itemvalue="JUnit.GenericTest.test3" />
-      <item itemvalue="JUnit.GenericTest.test4" />
+      <item itemvalue="Application.demo1" />
+      <item itemvalue="Application.FileInputStreamDemo" />
+      <item itemvalue="JUnit.FileInputOutputStreamTest.testCopyFile" />
+      <item itemvalue="JUnit.FileInputStreamDemo.testCopyFile" />
+      <item itemvalue="Application.buffStream" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GenericTest.test4" />
-        <item itemvalue="JUnit.GenericTest.test3" />
-        <item itemvalue="JUnit.CollectionTest.test1" />
-        <item itemvalue="Application.SeasonTest1" />
-        <item itemvalue="Application.SeasonTest" />
+        <item itemvalue="Application.buffStream" />
+        <item itemvalue="Application.FileInputStreamDemo" />
+        <item itemvalue="JUnit.FileInputStreamDemo.testCopyFile" />
+        <item itemvalue="Application.demo1" />
+        <item itemvalue="JUnit.FileInputOutputStreamTest.testCopyFile" />
       </list>
     </recent_temporary>
   </component>
@@ -289,6 +331,11 @@
       <workItem from="1593401423957" duration="9324000" />
       <workItem from="1593510461815" duration="2389000" />
       <workItem from="1593568823834" duration="4477000" />
+      <workItem from="1594047536854" duration="103000" />
+      <workItem from="1594518152504" duration="2578000" />
+      <workItem from="1596346209494" duration="3418000" />
+      <workItem from="1596637823944" duration="4499000" />
+      <workItem from="1596694775663" duration="24179000" />
     </task>
     <servers />
   </component>
@@ -300,58 +347,74 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="26" key="#Inspections/0.0.1366.738@0.0.1366.738" timestamp="1593262328032" />
+    <state x="275" y="0" width="816" height="738" key="#Intentions" timestamp="1596706816184">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="0" width="816" height="738" key="#Intentions/0.0.1366.738@0.0.1366.738" timestamp="1596706816184" />
     <state x="275" y="27" key="#Project_Structure" timestamp="1591261564358">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1591261564358" />
-    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1593436157118">
+    <state x="433" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596639085926">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1593436157118" />
+    <state x="433" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1596639085926" />
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1594522210548">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1594522210548" />
+    <state x="398" y="283" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1596700234993">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="398" y="283" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.738@0.0.1366.738" timestamp="1596700234993" />
     <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1593511289543">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1593511289543" />
-    <state width="1321" height="220" key="GridCell.Tab.0.bottom" timestamp="1593441095013">
+    <state width="1321" height="220" key="GridCell.Tab.0.bottom" timestamp="1596730715091">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="220" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593441095013" />
-    <state width="1321" height="220" key="GridCell.Tab.0.center" timestamp="1593441095013">
+    <state width="1321" height="220" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596730715091" />
+    <state width="1321" height="220" key="GridCell.Tab.0.center" timestamp="1596730715091">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="220" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1593441095013" />
-    <state width="1321" height="220" key="GridCell.Tab.0.left" timestamp="1593441095013">
+    <state width="1321" height="220" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1596730715091" />
+    <state width="1321" height="220" key="GridCell.Tab.0.left" timestamp="1596730715090">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="220" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1593441095013" />
-    <state width="1321" height="220" key="GridCell.Tab.0.right" timestamp="1593441095013">
+    <state width="1321" height="220" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1596730715090" />
+    <state width="1321" height="220" key="GridCell.Tab.0.right" timestamp="1596730715091">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="220" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1593441095013" />
-    <state width="1321" height="207" key="GridCell.Tab.1.bottom" timestamp="1593271591768">
+    <state width="1321" height="220" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1596730715091" />
+    <state width="1321" height="207" key="GridCell.Tab.1.bottom" timestamp="1596718574704">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="207" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1593271591768" />
-    <state width="1321" height="207" key="GridCell.Tab.1.center" timestamp="1593271591768">
+    <state width="1321" height="207" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1596718574704" />
+    <state width="1321" height="207" key="GridCell.Tab.1.center" timestamp="1596718574704">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="207" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1593271591768" />
-    <state width="1321" height="207" key="GridCell.Tab.1.left" timestamp="1593271591768">
+    <state width="1321" height="207" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1596718574704" />
+    <state width="1321" height="207" key="GridCell.Tab.1.left" timestamp="1596718574704">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="207" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1593271591768" />
-    <state width="1321" height="207" key="GridCell.Tab.1.right" timestamp="1593271591768">
+    <state width="1321" height="207" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1596718574704" />
+    <state width="1321" height="207" key="GridCell.Tab.1.right" timestamp="1596718574704">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1321" height="207" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1593271591768" />
-    <state x="281" y="19" key="SettingsEditor" timestamp="1593435625226">
+    <state width="1321" height="207" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1596718574704" />
+    <state x="281" y="19" key="SettingsEditor" timestamp="1594522177162">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="281" y="19" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1593435625226" />
+    <state x="281" y="19" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1594522177162" />
     <state x="402" y="110" width="555" height="540" key="StructurePopup" timestamp="1593569443623">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="402" y="110" width="555" height="540" key="StructurePopup/0.0.1366.738@0.0.1366.738" timestamp="1593569443623" />
+    <state x="403" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1596727608826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="403" y="260" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.738@0.0.1366.738" timestamp="1596727608826" />
     <state x="413" y="123" key="extract.method.dialog" timestamp="1593402155168">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -360,18 +423,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="291" y="71" width="784" height="596" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1592994169158" />
-    <state x="131" y="26" key="new project wizard" timestamp="1591436627451">
+    <state x="549" y="235" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1596638433503">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="131" y="26" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1591436627451" />
+    <state x="549" y="235" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1366.738@0.0.1366.738" timestamp="1596638433503" />
+    <state x="131" y="0" key="new project wizard" timestamp="1596637900894">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1596637900894" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1593433702052">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1593433702052" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1593569404501">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1596642029379">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1593569404501" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1596642029379" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

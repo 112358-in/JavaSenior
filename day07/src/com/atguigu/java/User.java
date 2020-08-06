@@ -74,6 +74,5 @@ public class User implements Comparable{
         }else{
             throw new RuntimeException("输入的类型不匹配");
         }
-
     }
 }
